@@ -11,6 +11,10 @@ export const FETCH_MENU = "FETCH_MENU";
 export const FETCH_CAS = "FETCH_CAS";
 export const FETCH_CA = "FETCH_CA";
 export const DELETE_CAS = "DELETE_CAS";
+export const CREATE_CA = "CREATE_CA";
+
+// CRL actions
+export const GENERATE_CRL = "GENERATE_CRL";
 
 // Alert actions
 export const SHOW_ALERT = "SHOW_ALERT";
